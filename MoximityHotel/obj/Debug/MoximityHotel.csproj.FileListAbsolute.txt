@@ -1,0 +1,6 @@
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\MoximityHotel\MoximityHotel\bin\Debug\MoximityHotel.exe.config
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\MoximityHotel\MoximityHotel\bin\Debug\MoximityHotel.exe
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\MoximityHotel\MoximityHotel\bin\Debug\MoximityHotel.pdb
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\MoximityHotel\MoximityHotel\obj\Debug\MoximityHotel.exe
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\MoximityHotel\MoximityHotel\obj\Debug\MoximityHotel.pdb
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\MoximityHotel\MoximityHotel\obj\Debug\MoximityHotel.csprojResolveAssemblyReference.cache
